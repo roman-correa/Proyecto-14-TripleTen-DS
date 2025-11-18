@@ -1,6 +1,6 @@
-# 📈 [NOMBRE CLARO DEL PROYECTO, ej: Predicción de Precios de Vehículos]
+# 📈  Predicción de Precios de Vehículos
 
-## Análisis y Modelado Predictivo de [TIPO DE DATOS]
+## Análisis y Modelado Predictivo de Precio de Vehiculos
 
 Este proyecto corresponde al **Sprint 14** del bootcamp de Data Science de **TripleTen**. El objetivo principal es la aplicación de técnicas de **Machine Learning (Regresión)** para [DESCRIBE EL OBJETIVO CLAVE, ej: predecir un valor de mercado con alta precisión]. El análisis se encuentra documentado en el *Jupyter Notebook* `sp14.ipynb`.
 
@@ -38,7 +38,7 @@ El modelo **[Modelo Seleccionado, ej: LightGBM Regressor]** demostró ser el má
 | **[Modelo Seleccionado]** | **[MEJOR VALOR]** | **[MEJOR VALOR]** |
 
 ### Conclusión
-El modelo final logra predecir **[VARIABLE CLAVE]** con una desviación promedio de **[VALOR $RMSE$]**. El análisis de la importancia de las características reveló que **[CARACTERÍSTICA MÁS INFLUYENTE]** es el factor más determinante en la predicción.
+El modelo final logra predecir **[Precio]** con una desviación promedio de **[VALOR $RMSE$]**. El análisis de la importancia de las características reveló que **EMPRESA (marca)** es el factor más determinante en la predicción.
 
 ---
 
@@ -68,4 +68,4 @@ Para reproducir este proyecto, sigue estos pasos:
 
 **Román Correa**
 * **GitHub:** [roman-correa](https://github.com/roman-correa)
-* **Linkedin:** (https://www.linkedin.com/in/bigcelph)
+* **Linkedin:** [roman-correa](https://www.linkedin.com/in/bigcelph)
